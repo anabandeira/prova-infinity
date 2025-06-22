@@ -1,0 +1,48 @@
+body {
+    background-color: 	#ddf6f6;
+    font-family: fantasy;
+    font-size: 16px;
+}
+h1 {
+    color: 		#2D3436;
+    text-align: center;
+    font-size: 40px;
+}
+li {
+    color: #7E6651;
+    text-align: left;
+    font-size: 16px;
+}
+a {
+  color: #E17055;
+  text-decoration: none;
+}
+h2 {
+    color: #636E72;
+    text-align: left;
+    font-size: 20px;
+}
+p {
+    color: #FAB1A0;
+    text-align: left;
+    font-size: 16px;
+}
+button {
+    background-color: whitesmoke;
+    border: 2px solid #FAB1A0;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+h3 {
+    color: #636E72;
+    text-align: left;
+    font-size: 18px;
+}
+footer {
+    background-color: #2D3436;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 14px;
+}
